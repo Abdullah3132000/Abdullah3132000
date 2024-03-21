@@ -5,8 +5,6 @@ Hi there! I'm Abdullah, a civil engineer turned structural engineer.<br>Passion 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdullah Khan) 
-<img src="![image](https://github.com/Abdullah3132000/Abdullah3132000/assets/147644986/d63f10b4-1896-4f90-ab71-f7969c6c877c)
-" alt="Your Image" width="150" align="right">
 
 
 # 💻 Tech Stack:
