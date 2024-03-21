@@ -1,3 +1,4 @@
+![Logo](https://github.com/Abdullah3132000/Abdullah3132000/blob/main/Data%20Analyst%20(1).png)
 ### Hi there 👋
 # 💫 About Me:
 Hi there! I'm Abdullah, a civil engineer turned structural engineer.<br>Passion for leveraging data-driven insights and machine learning .<br>I've delved into the world of data analytics and machine learning.<br>Completed Google Data Analytics course and specialized in machine learning through Coursera.<br>Currently advancing skills with Google Advanced Data Analysis.<br>
